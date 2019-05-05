@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Homework2</string>
+    <string name="event_name">Event</string>
+    <string name="event_details">Details</string>
+    <string name="add_event">Add event</string>
+    <string name="default_title">Name...</string>
+    <string name="default_details">Details...</string>
+    <string name="name">Name</string>
+    <string name="event_date">Date</string>
+    <string name="details">Details</string>
+    <string name="add">Add</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="images" tools:ignore="InconsistentArrays">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+    <string name="myFileprovider">com.example.app.fileprovider</string>
+</resources>
